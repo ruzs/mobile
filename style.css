@@ -1,7 +1,7 @@
 @charset "UTF-8";
 * {
   position: relative;
-  font-family: 圓體-;
+  font-family: 圓體-繁;
   letter-spacing: 0.5px;
   vertical-align: top;
 }
@@ -16,6 +16,10 @@ html, body {
   justify-content: center;
   align-items: center;
   flex-direction: column;
+}
+
+p{
+  padding-top: 10px;
 }
 
 .phone {
